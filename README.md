@@ -1,7 +1,4 @@
 # How to setup?
 - Start to `install.bat`
-- Edit the `config.js` file according to your own settings
+- Edit the `config.js`
 - Start to `start.bat`
-
-# Finish 🎉
-- Now your project will open, follow the `commands` path to add a new command, follow the `events` path to add a new event.
